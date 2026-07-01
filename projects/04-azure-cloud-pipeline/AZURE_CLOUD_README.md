@@ -65,3 +65,6 @@ This project modeled a small-scale workflow that could support data ingestion, t
 ## Executive Takeaway
 
 Cloud computing allows organizations to build flexible data workflows without owning physical infrastructure. Even a simple architecture can demonstrate the core cloud pattern: compute processes data, storage preserves files, and databases support structured access for future reporting and decision-making.
+
+![Azure Cloud Data Pipeline (Color-Coded)](azure-pipeline-color.png)
+
