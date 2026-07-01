@@ -74,24 +74,15 @@ If you are a recruiter or hiring manager, start with:
 ---
 
 ## 🔧 Tech Stack
-
-- Python (pandas, scikit-learn, nltk)  
-- Azure (VMs, Blob Storage, MySQL)  
-- Jupyter Notebooks  
-- Git & GitHub  
+  
+- Azure (VMs, Blob Storage, MySQL)
+- AWS    
 - Generative AI (prompt engineering, LLM workflows)  
-
----
-
-## 🚀 Roadmap
-
-- Add an AI governance case study  
-- Build a cloud cost optimization analysis  
-- Add a GenAI workflow for nonprofit operations  
-- Expand cloud pipeline into a full ETL architecture  
 
 ---
 
 ## 📬 Contact
 
-LinkedIn: https://www.linkedin.com/in/margaret-weisbrod-morris/
+LinkedIn: https://www.linkedin.com/in/margaret-weisbrod-morris
+
+email: margaret@weisbrodmorris.com
