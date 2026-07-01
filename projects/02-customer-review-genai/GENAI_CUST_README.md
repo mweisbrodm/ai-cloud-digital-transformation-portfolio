@@ -60,3 +60,10 @@ The project examined how AI-powered review categorization could help organizatio
 ## Executive Takeaway
 
 Generative AI can help organizations listen to customers at scale, but the value depends on how clearly the problem is defined and how thoughtfully the workflow is designed. Strong prompts are not just technical instructions; they are business process tools.
+
+
+## Workflow Overview
+
+The following diagram illustrates the end‑to‑end process:
+
+![Customer Review GenAI Workflow – Vertical](CustomerReviewGenAIVertical.png)
