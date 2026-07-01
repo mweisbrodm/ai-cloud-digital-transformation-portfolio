@@ -19,7 +19,7 @@ The skills showcased accentuate my transition from executive nonprofit leadershi
 
 ## 🎯 About me
   
-I am an executive strategist who understands how to translate business problems into technology-enabled solutions. My background includes more than 20 years of executive leadership, strategic planning, organizational transformation, technology adoption, partnership development, governance, and data-informed decision-making. My current work builds on that experience through post-graduate-level study in AI, machine learning, and cloud computing.
+I am an business strategist who understands how to transform business challenges into technology-enabled solutions. My background includes more than 20 years of executive leadership, strategic planning, organizational transformation, technology adoption, partnership development, governance, and data-informed decision-making. My current work expands on that experience through post-graduate-level study in AI, machine learning, and cloud computing.
 
 My strongest value is at the intersection of:
 
