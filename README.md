@@ -1,7 +1,7 @@
 # AI, Cloud & Digital Transformation Portfolio
 
 **Margaret Weisbrod Morris**  
-Strategist | Uniting People, Purpose and Technology
+Business Strategist | Uniting People, Purpose and Technology
 
 ---
 
