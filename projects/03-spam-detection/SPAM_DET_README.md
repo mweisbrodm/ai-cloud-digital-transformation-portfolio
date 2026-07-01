@@ -61,3 +61,6 @@ Spam and phishing messages can create real organizational risk. Employees may re
 ## Executive Takeaway
 
 Machine learning can improve spam detection, but effective implementation requires more than a model. Organizations also need risk thresholds, human review processes, confidence scoring, and continuous improvement as threats evolve.
+
+![Spam Detection Machine Learning Workflow – Vertical](SpamDetectionWorkflow.png)
+
