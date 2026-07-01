@@ -67,5 +67,5 @@ Predictive analytics can help organizations move from reactive decision-making t
 
 This diagram illustrates the end‑to‑end flow of the predictive analytics system — from data ingestion to business decision optimization — using the same Azure‑style theme as the cloud pipeline architecture.
 
-![Hotel Cancellation Architecture – Vertical](hotel-cancellation-architecture-vertical.png)
+![Hotel Cancellation Architecture – Vertical](HotelCancellationArchtiectureVertical.png)
 
